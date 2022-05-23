@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Josh👋
 
-<!--
-**JoshuaEworo/JoshuaEworo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" />
 
-Here are some ideas to get you started:
+<i>🔭 18 year old Front End Developer </i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<i>📖 Computer Science Student @ UH </i>
+
+<i>👯 I’m looking for an internship, reach out for any opportunities :) </i>
+
+<i>📚 Frontend: HTML, CSS, JavaScript, NodeJS, React, NextJS </i>
+
+<i>😄 Pronouns: He/Him </i>
+
+<br/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JoshuaEworo/)](https://www.linkedin.com/in/JoshuaEworo/)
+[![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://joshuaeworo.github.io)](https://joshuaeworo.github.io)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joshuaeworo)](https://twitter.com/joshuaeworo)
+<br/><i>~ Check out my <a href="joshuaeworo.vercel.app" target="_blank">portfolio</a></i>
