@@ -4,7 +4,7 @@
 
 <i>🔭 19 year old Front End Developer </i>
 
-<i>📖 Computer Science Student @ UH </i>
+<i>📖 Computer Science Student @ University of Houston </i>
 
 <i>👯 I’m looking for an internship, reach out for any opportunities :) </i>
 
