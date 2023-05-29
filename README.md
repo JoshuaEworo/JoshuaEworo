@@ -2,7 +2,7 @@
 
 <img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" />
 
-<i>🔭 19 year old Software Engineer </i>
+<i>🔭 19 year old Software Engineer + Applied AI Engineer </i>
 
 <i>📖 Computer Science Student @ University of Houston </i>
 
