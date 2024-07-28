@@ -2,13 +2,15 @@
 
 <img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" />
 
-<i>🔭 19 year old Software Engineer + Applied AI Engineer </i>
+<i>🔭 20 year old Software Engineer + Applied AI Engineer </i>
 
 <i>📖 Computer Science Student @ University of Houston </i>
 
 <i>👯 I’m looking for an internship, reach out for any opportunities :) </i>
 
-<i>📚 Frontend: HTML, CSS, JavaScript, NodeJS, React, NextJS </i>
+<i>📚 Frontend: HTML, CSS, JavaScript, React, NextJS, Svelte/Sveltekit </i>
+
+<i>🛠️ Programming Languages: JavaScript, C++, Python </i>
 
 <i>😄 Pronouns: He/Him </i>
 
