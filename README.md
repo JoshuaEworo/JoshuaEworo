@@ -1,15 +1,13 @@
-### Hey there, I'm Joshua 👋
+# Hey there, I'm Joshua 👋
+
+**Software Engineer | Applied AI Engineer**  
+CS @ University of Houston | Ex-JPMC SWE Intern | NSBE Business Intelligence Chair
+
+Open to internships, collaborations, and building impactful products — whether that’s as part of a team, through collaborations, or helping shape early-stage ideas.
 
 ---
 
-🎯 **Software Engineer & Applied AI Engineer**  
-🎓 Computer Science @ University of Houston  
-🚀 Currently open to **internships & collaborations**
-🤝 Always down to build impactful products — whether that’s as part of a team, through collaborations, or helping shape early-stage ideas.
-
----
-
-#### 🧰 Tech Stack
+## Tech Stack
 - **Frontend:** React • Next.js • SvelteKit • HTML • HTMX • CSS • JavaScript  
 - **Backend & Tools:** Node.js • Express • Flask • FastAPI • PostgreSQL • Supabase • Firebase • Vercel  
 - **Programming Languages:** JavaScript/TypeScript • Python • C++
@@ -17,10 +15,10 @@
 
 ---
 
-#### 🌱 What I’m Exploring
-- Building **AI copilots** that *actually* do useful things.  
+#### What I’m Exploring
 - Making software that feels *human* — fluid, intuitive, and fast.  
 - Scaling small ideas into products that solve real problems.
+- Building **AI copilots** that *actually* do useful things.  
 
 ---
 
@@ -31,5 +29,3 @@
 
 🖥️ **Portfolio:** [joshuaeworo.vercel.app](https://joshuaeworo.dev)  
 ✉️ Reach out — always open to great conversations, collaborations, or new opportunities.
-
----
