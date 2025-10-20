@@ -10,9 +10,9 @@
 ---
 
 #### 🧰 Tech Stack
-- **Frontend:** React • Next.js • SvelteKit • HTML • CSS • JavaScript  
-- **Backend & Tools:** Node.js • Express • Supabase • Firebase • Vercel  
-- **Programming Languages:** JavaScript • Python • C++  
+- **Frontend:** React • Next.js • SvelteKit • HTML • HTMX • CSS • JavaScript  
+- **Backend & Tools:** Node.js • Express • Flask • FastAPI • PostgreSQL • Supabase • Firebase • Vercel  
+- **Programming Languages:** JavaScript/TypeScript • Python • C++
 - **Other Interests:** Agentic AI Systems • Real-time Apps • UI/UX Design
 
 ---
