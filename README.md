@@ -1,4 +1,4 @@
-### Hi there, I'm Josh👋
+### Hi there, I'm Joshua👋
 
 <img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" />
 
