@@ -1,22 +1,35 @@
-### Hi there, I'm Joshua👋
+### Hey there, I'm Joshua 👋
 
-<img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" />
+---
 
-<i>🔭 21 year old Software Engineer + Applied AI Engineer </i>
+🎯 **Software Engineer & Applied AI Engineer**  
+🎓 Computer Science @ University of Houston  
+🚀 Currently open to **internships & collaborations**
+🤝 Always down to build impactful products — whether that’s as part of a team, through collaborations, or helping shape early-stage ideas.
 
-<i>📖 Computer Science Student @ University of Houston </i>
+---
 
-<i>👯 I’m looking for an internship, reach out for any opportunities :) </i>
+#### 🧰 Tech Stack
+- **Frontend:** React • Next.js • SvelteKit • HTML • CSS • JavaScript  
+- **Backend & Tools:** Node.js • Express • Supabase • Firebase • Vercel  
+- **Programming Languages:** JavaScript • Python • C++  
+- **Other Interests:** Agentic AI Systems • Real-time Apps • UI/UX Design
 
-<i>📚 Frontend: HTML, CSS, JavaScript, React, NextJS, Svelte/Sveltekit </i>
+---
 
-<i>🛠️ Programming Languages: JavaScript, C++, Python </i>
+#### 🌱 What I’m Exploring
+- Building **AI copilots** that *actually* do useful things.  
+- Making software that feels *human* — fluid, intuitive, and fast.  
+- Scaling small ideas into products that solve real problems.
 
-<i>😄 Pronouns: He/Him </i>
+---
 
-<br/>
-
+#### 🤝 Let’s Connect
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/JoshuaEworo/)](https://www.linkedin.com/in/JoshuaEworo/)
-[![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoshuaEworo)](https://github.com/JoshuaEworo)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joshuaeworo)](https://twitter.com/joshuaeworo)
-<br/><i>~ Check out my <a href="https://joshuaeworo.vercel.app" target="_blank">portfolio</a></i>
+[![Github Page Badge](https://img.shields.io/badge/-GitHub_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoshuaEworo)](https://github.com/JoshuaEworo)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/joshuaeworo)](https://twitter.com/joshuaeworo)
+
+🖥️ **Portfolio:** [joshuaeworo.vercel.app](https://joshuaeworo.dev)  
+✉️ Reach out — always open to great conversations, collaborations, or new opportunities.
+
+---
