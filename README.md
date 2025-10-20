@@ -4,7 +4,6 @@
 CS @ University of Houston | Ex-JPMC SWE Intern | NSBE Business Intelligence Chair
 
 Open to internships, collaborations, and building impactful products — whether that’s as part of a team, through collaborations, or helping shape early-stage ideas.
-
 <br/>
 
 ## Tech Stack
@@ -12,14 +11,12 @@ Open to internships, collaborations, and building impactful products — whether
 - **Backend & Tools:** Node.js • Express • Flask • FastAPI • PostgreSQL • Supabase • Firebase • Vercel  
 - **Programming Languages:** JavaScript/TypeScript • Python • C++
 - **Other Interests:** Agentic AI Systems • Real-time Apps • UI/UX Design
-
 <br/>
 
 ## What I’m Exploring
 - Making software that feels *human* — fluid, intuitive, and fast.  
 - Scaling small ideas into products that solve real problems.
 - Building **AI copilots** that *actually* do useful things.  
-
 <br/>
 
 ## 🤝 Let’s Connect
