@@ -1,7 +1,7 @@
 # Hey there, I'm Joshua 👋
 
 **Software Engineer | Applied AI Engineer**  
-CS @ University of Houston | Ex-JPMC SWE Intern | NSBE Business Intelligence Chair
+CS @ University of Houston | 2x JPMC SWE Intern | NSBE Business Intelligence Chair
 
 Open to internships, collaborations, and building impactful products — whether that’s as part of a team, through collaborations, or helping shape early-stage ideas.
 <br/>
